@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background: crimson;
+    color: #FFF;
+    text-align: center;
+}
+h1{
+    font-size: 8vw;
+    padding-top: 100px;
+}
